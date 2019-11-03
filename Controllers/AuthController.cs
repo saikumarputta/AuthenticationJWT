@@ -50,5 +50,10 @@ namespace JwtAuthentication.Controllers
             return BadRequest(result.Errors);
 
         }
+        // public async Task<IActionResult> Login()
+        // {
+
+        //     return Ok();
+        // }
     }
 }
