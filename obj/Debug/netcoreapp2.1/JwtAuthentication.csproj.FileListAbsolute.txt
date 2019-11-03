@@ -1,0 +1,14 @@
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\bin\Debug\netcoreapp2.1\JwtAuthentication.deps.json
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\bin\Debug\netcoreapp2.1\JwtAuthentication.runtimeconfig.json
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\bin\Debug\netcoreapp2.1\JwtAuthentication.runtimeconfig.dev.json
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\bin\Debug\netcoreapp2.1\JwtAuthentication.dll
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\bin\Debug\netcoreapp2.1\JwtAuthentication.pdb
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.csprojAssemblyReference.cache
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.RazorAssemblyInfo.cache
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.RazorAssemblyInfo.cs
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.AssemblyInfoInputs.cache
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.AssemblyInfo.cs
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.RazorTargetAssemblyInfo.cache
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.dll
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.pdb
+C:\Users\Saikumar Putta\source\repos\JwtAuthentication\obj\Debug\netcoreapp2.1\JwtAuthentication.csproj.CoreCompileInputs.cache
